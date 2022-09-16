@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec4baeb-494c-4c54-9932-f88f58c51f61" name="변경" comment="data-engineering">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyIntegerComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Email.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +58,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.App10">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+  <component name="RunManager" selected="애플리케이션.ArrayExample6">
+    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayExample2" />
       <module name="Data-Engineering-ver2" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App1" />
+    <configuration name="ArrayExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayExample3" />
       <module name="Data-Engineering-ver2" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App10" />
+    <configuration name="ArrayExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayExample4" />
       <module name="Data-Engineering-ver2" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App8" />
+    <configuration name="ArrayExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayExample5" />
       <module name="Data-Engineering-ver2" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App9" />
+    <configuration name="ArrayExample6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayExample6" />
       <module name="Data-Engineering-ver2" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.App10" />
-        <item itemvalue="애플리케이션.App9" />
-        <item itemvalue="애플리케이션.App8" />
-        <item itemvalue="애플리케이션.App1" />
-        <item itemvalue="애플리케이션.App" />
+        <item itemvalue="애플리케이션.ArrayExample6" />
+        <item itemvalue="애플리케이션.ArrayExample5" />
+        <item itemvalue="애플리케이션.ArrayExample4" />
+        <item itemvalue="애플리케이션.ArrayExample3" />
+        <item itemvalue="애플리케이션.ArrayExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663308409370</updated>
-      <workItem from="1663308411924" duration="5937000" />
+      <workItem from="1663308411924" duration="11231000" />
     </task>
     <task id="LOCAL-00001" summary="data-engineering">
       <created>1663310195096</created>
@@ -146,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663310195096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="data-engineering">
+      <created>1663314722894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663314722894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

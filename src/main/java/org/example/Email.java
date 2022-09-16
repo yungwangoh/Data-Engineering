@@ -19,4 +19,33 @@ public class Email {
                 ", to=" + to +
                 '}';
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Email)) return false;
+        Email email = (Email) o;
+        return from == email.from && to == email.to;
+    }
+
+    @Override
+    public int hashCode() {
+        return 0;
+    }
+
+    public int getFrom() {
+        return from;
+    }
+
+    public void setFrom(int from) {
+        this.from = from;
+    }
+
+    public int getTo() {
+        return to;
+    }
+
+    public void setTo(int to) {
+        this.to = to;
+    }
 }
