@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class App1 {
 
@@ -32,27 +33,9 @@ public class App1 {
         System.out.println("min = " + min);
     }
     public static void main(String[] args) throws IOException {
-
-        long pre = System.currentTimeMillis();
-
         Email[] emails = new Email[420045];
-        int index = 0;
         BufferedReader br = new BufferedReader(new FileReader("/Users/yungwang-o/Downloads/email.txt"));
-        while(true) {
-            String s = br.readLine();
-            if(s == null) break;
-            if(s.startsWith("#")) continue;
-            String[] array = s.split("\t");
-            int from = Integer.parseInt(array[0]);
-            int to = Integer.parseInt(array[1]);
 
-            emails[index++] = new Email(from, to);
-        }
-        eventLineCount(emails);
-        eventMax(emails);
-        eventMin(emails);
-
-        System.out.println(System.currentTimeMillis() - pre); // 현재 시간 - 이전 시간 = 총 걸린 시간.
         br.close();
     }
 }
