@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec4baeb-494c-4c54-9932-f88f58c51f61" name="변경" comment="data-engineering">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayListExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework1/MyArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework1/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework1/MyArrayListIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayExample6.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ec4baeb-494c-4c54-9932-f88f58c51f61" name="변경" comment="data-engineering" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,6 +134,7 @@
       <workItem from="1663308411924" duration="11337000" />
       <workItem from="1664520686611" duration="8170000" />
       <workItem from="1664529099493" duration="763000" />
+      <workItem from="1664890897219" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="data-engineering">
       <created>1663310195096</created>
@@ -168,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663321002194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="data-engineering">
+      <created>1664890910252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664890910252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
